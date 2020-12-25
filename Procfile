@@ -1,1 +1,1 @@
-sh setup.sh && streamlit run mnist_nn.py
+sh setup.sh && streamlit run main_app.py
